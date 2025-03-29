@@ -47,7 +47,7 @@ This document is a valuable resource for:
 - **Cybersecurity students** learning real-world security testing techniques
 
 ## 🤝 Contributions & Feedback
-Contributions are welcome! If you find ways to improve this report or want to add additional testing methodologies, feel free to open a pull request or provide feedback.
+Contributions are welcome! If you find ways to improve this report or want to add additional testing methodologies, feel free to open a pull request or provide feedback. 
 
 
 
